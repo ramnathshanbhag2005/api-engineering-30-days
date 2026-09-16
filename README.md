@@ -22,10 +22,8 @@ and test REST APIs using Java, Spring Boot and PostgreSQL.
  03  HTTP Methods & Status Codes | Not Started |
  04  Request Anatomy | Not Started |
  05  JSON | Not Started |
- 06  Postman | Not Started |
- 07  Building a REST API | Not Started |
- ...  ... | Not Started |
- 30  Final API Project | Not Started |
+..... 30 
+
 
 ## Tools
 
